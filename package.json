@@ -1,10 +1,15 @@
 {
   "name": "json-server-api",
   "version": "1.0.0",
+  "description": "API REST fake usando JSON Server",
   "main": "server.js",
   "scripts": {
-    "start": "json-server --watch db.json --port 10000"
+    "start": "node server.js",
+    "dev": "json-server --watch db.json --port 3000"
   },
+  "keywords": ["json-server", "api", "fake-api"],
+  "author": "Marcelo",
+  "license": "MIT",
   "dependencies": {
     "json-server": "^0.17.4"
   }
