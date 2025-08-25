@@ -1,0 +1,116 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "password": "Digite a senha",
+      "name": "Digite seu nome",
+      "surname": "Masai school",
+      "birthday": "dia/mês/ano",
+      "email": "example@gmail.com"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "cats": [
+    {
+      "id": "04eEQhDfAL8l5nt3",
+      "name": "BlackCat",
+      "tags": [
+        "two",
+        "double",
+        "black"
+      ],
+      "mimetype": "image/jpeg",
+      "createdAt": "2022-07-18T11:28:29.596Z"
+    },
+    {
+      "id": "05Xd4JtN14983pns",
+      "name": "ColdCat",
+      "tags": [
+        "Cute"
+      ],
+      "mimetype": "image/jpeg",
+      "createdAt": "2024-05-27T17:55:08.552Z"
+    },
+    {
+      "id": "09wFxpacQzvf9jfM",
+      "name": "SmallCat",
+      "tags": [
+        "Maskcat"
+      ],
+      "mimetype": "image/jpeg",
+      "createdAt": "2021-08-17T06:26:37.959Z"
+    },
+    {
+      "id": "0B2g7aTANObiqPJJ",
+      "name": "BlueCat",
+      "tags": [
+        "creation"
+      ],
+      "mimetype": "image/jpeg",
+      "createdAt": "2016-11-25T03:46:12.562Z"
+    },
+    {
+      "id": "0BTTVEVWXNyOgXYd",
+      "name": "GreenCat",
+      "tags": [ "sad" ],
+      "mimetype": "image/jpeg",
+      "createdAt": "2020-10-19T18:52:55.627Z"
+    },
+    {
+      "id": "0C2bQ39x8kuhx31p",
+      "name": "GreyCat",
+      "tags": [
+        "sara",
+        "looking"
+      ],
+      "mimetype": "image/jpeg",
+      "createdAt": "2021-11-11T10:16:22.061Z"
+    },
+    {
+      "id": "0DVs2d6bIVIt3ehk",
+      "name": "YellowCat",
+      "tags": [
+        "birthday",
+        "cake",
+        "happy"
+      ],
+      "mimetype": "image/gif",
+      "createdAt": "2024-02-06T20:07:13.052Z"
+    },
+    {
+      "id": "0EsIYDG0at0TPpPD",
+      "name": "WhiteCat",
+      "tags": [
+        "fat"
+      ],
+      "mimetype": "image/jpeg",
+      "createdAt": "2022-03-26T23:13:25.966Z"
+    },
+    {
+      "id": "0F0IKAPOdWiE755P",
+      "name": "SnowCat",
+      "tags": [
+        "meet",
+        "cute"
+      ],
+      "mimetype": "image/jpeg",
+      "createdAt": "2024-06-18T09:46:45.702Z"
+    },
+    {
+      "id": "0GC9MRUAqxhBzPyA",
+      "name": "BigCat",
+      "tags": [
+        "cute"
+      ],
+      "mimetype": "image/png",
+      "createdAt": "2024-09-15T15:45:25.375Z"
+    }
+  
+  ]
+}
