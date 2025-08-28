@@ -10,11 +10,13 @@
     }
   ]
 
-  "tags" : [
+  "tags": [
+	{
     "TAGA",
     "TAGB",
     "TAGC",
     "TAGD"
+	}
   ]
   
   "cats": [
