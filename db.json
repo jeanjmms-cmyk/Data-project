@@ -8,109 +8,85 @@
       "birthday": "dia/mês/ano",
       "email": "example@gmail.com"
     }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
+  ]
+
+  "tags" : [
+    "TAGA",
+    "TAGB",
+    "TAGC",
+    "TAGD"
+  ]
+  
   "cats": [
     {
-      "id": "04eEQhDfAL8l5nt3",
-      "name": "BlackCat",
-      "tags": [
-        "two",
-        "double",
-        "black"
-      ],
-      "mimetype": "image/jpeg",
-      "createdAt": "2022-07-18T11:28:29.596Z"
+        "height": 668,
+        "id": "10q",
+        "url": "https://cdn2.thecatapi.com/images/10q.jpg",
+        "width": 500,
+		"tags": ["TAGA"]
     },
     {
-      "id": "05Xd4JtN14983pns",
-      "name": "ColdCat",
-      "tags": [
-        "Cute"
-      ],
-      "mimetype": "image/jpeg",
-      "createdAt": "2024-05-27T17:55:08.552Z"
+        "height": 375,
+        "id": "2ed",
+        "url": "https://cdn2.thecatapi.com/images/2ed.jpg",
+        "width": 500,
+		"tags": ["TAGA"]
     },
     {
-      "id": "09wFxpacQzvf9jfM",
-      "name": "SmallCat",
-      "tags": [
-        "Maskcat"
-      ],
-      "mimetype": "image/jpeg",
-      "createdAt": "2021-08-17T06:26:37.959Z"
+        "height": 768,
+        "id": "8me",
+        "url": "https://cdn2.thecatapi.com/images/8me.jpg",
+        "width": 1024,
+		"tags": ["TAGA"]
     },
     {
-      "id": "0B2g7aTANObiqPJJ",
-      "name": "BlueCat",
-      "tags": [
-        "creation"
-      ],
-      "mimetype": "image/jpeg",
-      "createdAt": "2016-11-25T03:46:12.562Z"
+        "height": 504,
+        "id": "a31",
+        "url": "https://cdn2.thecatapi.com/images/a31.jpg",
+        "width": 560,
+		"tags": ["TAGA"]
     },
     {
-      "id": "0BTTVEVWXNyOgXYd",
-      "name": "GreenCat",
-      "tags": [ "sad" ],
-      "mimetype": "image/jpeg",
-      "createdAt": "2020-10-19T18:52:55.627Z"
+        "height": 640,
+        "id": "ab5",
+        "url": "https://cdn2.thecatapi.com/images/ab5.jpg",
+        "width": 480
     },
     {
-      "id": "0C2bQ39x8kuhx31p",
-      "name": "GreyCat",
-      "tags": [
-        "sara",
-        "looking"
-      ],
-      "mimetype": "image/jpeg",
-      "createdAt": "2021-11-11T10:16:22.061Z"
+        "height": 600,
+        "id": "ahl",
+        "url": "https://cdn2.thecatapi.com/images/ahl.jpg",
+        "width": 520,
+		"tags": ["TAGB"]
     },
     {
-      "id": "0DVs2d6bIVIt3ehk",
-      "name": "YellowCat",
-      "tags": [
-        "birthday",
-        "cake",
-        "happy"
-      ],
-      "mimetype": "image/gif",
-      "createdAt": "2024-02-06T20:07:13.052Z"
+        "height": 1834,
+        "id": "MTkyMDQxNg",
+        "url": "https://cdn2.thecatapi.com/images/MTkyMDQxNg.jpg",
+        "width": 1446,
+		"tags": ["TAGB"]
     },
     {
-      "id": "0EsIYDG0at0TPpPD",
-      "name": "WhiteCat",
-      "tags": [
-        "fat"
-      ],
-      "mimetype": "image/jpeg",
-      "createdAt": "2022-03-26T23:13:25.966Z"
+        "height": 778,
+        "id": "MjAzMDMwMg",
+        "url": "https://cdn2.thecatapi.com/images/MjAzMDMwMg.jpg",
+        "width": 519,
+		"tags": ["TAGB"]
     },
     {
-      "id": "0F0IKAPOdWiE755P",
-      "name": "SnowCat",
-      "tags": [
-        "meet",
-        "cute"
-      ],
-      "mimetype": "image/jpeg",
-      "createdAt": "2024-06-18T09:46:45.702Z"
+        "height": 2569,
+        "id": "m1TeHn2dH",
+        "url": "https://cdn2.thecatapi.com/images/m1TeHn2dH.jpg",
+        "width": 3555,
+		"tags": ["TAGC"]
     },
     {
-      "id": "0GC9MRUAqxhBzPyA",
-      "name": "BigCat",
-      "tags": [
-        "cute"
-      ],
-      "mimetype": "image/png",
-      "createdAt": "2024-09-15T15:45:25.375Z"
+        "height": 3031,
+        "id": "vDFI6jI2O",
+        "url": "https://cdn2.thecatapi.com/images/vDFI6jI2O.jpg",
+        "width": 3555,
+		"tags": ["TAGD", "TAGA"]
     }
-  
+
   ]
 }
