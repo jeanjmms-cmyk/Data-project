@@ -2,11 +2,14 @@
   "posts": [
     {
       "id": 1,
-      "password": "Digite a senha",
-      "name": "Digite seu nome",
-      "surname": "Masai school",
-      "birthday": "dia/mês/ano",
-      "email": "example@gmail.com"
+      email: "",
+      password: "",
+      name: "",
+      surname: "",
+      bday: "",
+      address: "",
+      cep: "",
+      city: "",
     }
   ],
 
