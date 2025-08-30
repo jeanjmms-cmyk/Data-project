@@ -2,14 +2,14 @@
   "posts": [
     {
       "id": 1,
-      email: "",
-      password: "",
-      name: "",
-      surname: "",
-      bday: "",
-      address: "",
-      cep: "",
-      city: "",
+      "email": "",
+      "password": "",
+      "name": "",
+      "surname": "",
+      "bday": "",
+      "address": "",
+      "cep": "",
+      "city": "",
     }
   ],
 
