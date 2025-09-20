@@ -1,9 +1,6 @@
 {
   "posts": [
-    { "id": 1,
-      "name": "Os usuários cadastrados aparecerão aqui",
-      "email": "example@email.com"
-    }
+
   ],
 
   "tags": [
